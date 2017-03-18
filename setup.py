@@ -14,7 +14,7 @@ setup(name='aw-server',
       include_package_data=True,
 
       install_requires=[
-          'aw-core>=0.1',
+          'aw-core>=0.1.0',
           'flask>=0.10',
           'flask-restplus>=0.9.2',
           'flask-cors>=2.1',
