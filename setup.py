@@ -23,7 +23,7 @@ setup(name='aw-server',
           'python-json-logger>=0.1.5'
       ],
       dependency_links=[
-          'https://github.com/ActivityWatch/aw-core/tarball/master#egg=aw-core-0.1.0'
+          'https://github.com/ActivityWatch/aw-core/tarball/master#egg=aw-core-0.1'
       ],
 
       entry_points={
